@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HaasStefan
+- 👀 I’m interested in Web Development and Software Architecture
+- 🌱 I’m currently learning Angular and Tailwind
+- 📫 How to reach me https://www.linkedin.com/in/stefan-haas-686a921b4/
