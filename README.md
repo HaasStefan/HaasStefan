@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HaasStefan
-- 👀 I’m interested in Web Development and Software Architecture
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Angular, Typescript, Javascript
 - 📫 How to reach me https://www.linkedin.com/in/stefan-haas-686a921b4/
