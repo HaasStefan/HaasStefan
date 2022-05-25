@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HaasStefan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular, Typescript, Javascript
+- 👀 I’m interested in Web Development, Cloud Computing
+- 🌱 I’m currently learning Azure
 - 📫 How to reach me https://www.linkedin.com/in/stefan-haas-686a921b4/
