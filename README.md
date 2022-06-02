@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
 <h3 align="center">A passionate Full Stack Developer from Austria</h3>
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m currently learning **Nx**
 
-- 👀 I’m interested in **Web Development and Cloud Computing**
+- 👀 I’m interested in **Web Development with Angular**
 
 - 📝 I regularly write articles on [https://medium.com/@stefan.haas.privat](https://medium.com/@stefan.haas.privat)
 
