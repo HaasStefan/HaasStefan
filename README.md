@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
 <h3 align="center">A passionate Full Stack Developer from Austria</h3>
 
-- 🌱 I’m currently learning for the **AZ-204 exam**
+- 🌱 I’m currently studying for the **AZ-204 exam**
 
 - 👀 I’m interested in **Web Development with Angular**
 
