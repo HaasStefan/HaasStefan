@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
 <h3 align="center">A passionate Full Stack Developer from Austria</h3>
 
-- 🌱 I’m currently studying for the **AZ-204 exam**
-
-- 👀 I’m interested in **Web Development with Angular**
+- 👀 I’m interested in **Sustainable Web Development by building long-lived Applications**
 
 - 📝 I regularly write articles on [https://medium.com/@stefan.haas.privat](https://medium.com/@stefan.haas.privat)
 
-- 💬 Ask me about **Angular, Typescript, C#**
+- 💬 Ask me about **Angular, Microfrontends, Monorepositories, Web Components**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
