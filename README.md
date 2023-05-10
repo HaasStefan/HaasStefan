@@ -6,3 +6,7 @@
 - 💬 Ask me about **Angular, RxJs, NgRx, Nx, DDD**
 
 - 📫 How to reach me **stefan.haas.privat@gmail.com**
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaasStefan&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
