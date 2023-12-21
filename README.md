@@ -3,11 +3,17 @@
 
 <a alt="NG Journal Logo" href="https://ng-journal.com" target="_blank" rel="noreferrer"><img src="https://ng-journal.com/ng-journal.png" width="45"></a>
 
- I am an Angular enthusiast and I enjoy interacting with the community. Hence, I created NG Journal, a community blog for Angular, where everyone can create advanced opinionated blog posts for Angular.
+ I am an Angular enthusiast and I enjoy interacting with the community. Hence, I created NG Journal, a community blog for Angular, where everyone can create advanced opinionated blog posts for Angular. I also share my knowledge on my linkedin by creating frequent Angular tips.
+ 
 
  I like Angular
+ 
  I like Nx
+ 
  I like RxJS
+ 
  I like RxAngular
+ 
  I like Tailwind
+ 
  I don't like Java
