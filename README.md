@@ -3,7 +3,7 @@
 
 <a alt="NG Journal Logo" href="https://ng-journal.com" target="_blank" rel="noreferrer"><img src="https://ng-journal.com/assets/ng-journal.png" width="45"></a>
 
- I am an Angular enthusiast and I enjoy interacting with the community. Hence, I created NG Journal, a community blog for Angular, where everyone can create advanced opinionated blog posts for Angular. I also share my knowledge on my linkedin by creating frequent Angular tips.
+I am a passionate web developer and freelancer from Austria. I am deep into Angular and its ecosystem but I am also intersted in all the other frontend frameworks. I have helped various companies, governments and startups in their web journey.
  
 
  I like Angular
@@ -17,3 +17,9 @@
  I like Tailwind
  
  I don't like Java
+
+ I am interested in React
+
+ I am intersted in Solid
+
+ I am intersted in Svelte
