@@ -16,8 +16,6 @@ I am a passionate web developer and freelancer from Austria. I am deep into Angu
  
  I like Tailwind
  
- I don't like Java
-
  I am interested in React
 
  I am intersted in Solid
