@@ -9,5 +9,5 @@ I am a passionate web developer and freelancer from Austria. I am deep into Angu
 I enjoy improving developer experiences using Nx Monorepositories by speeding up local and CI builds, while creating architectural guardrails and automating developer workflows.
  
 
- I like Angular, Nx, TypeScript, RxJS, RxAngular, React, NestJS and Tailwind. So basically anything that ends with a `.JS` 😉
+ I like Angular, Nx, TypeScript, RxJS, RxAngular, React, NestJS and Tailwind. So basically everything that ends with a `.JS` 😉
  
