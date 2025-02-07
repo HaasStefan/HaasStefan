@@ -6,4 +6,4 @@ I have got a lot of experience with Angular, TypeScript, Nx and NodeJS. I am pre
 
 I am currently diving into the Cloud Native movement, trying to understand Docker, Kubernetes and Cloud stuff.
 
-If you are interested in Frontend Ops topics, I sometimes write a blog post [here](https://stefanhaas.dev).
+If you are interested in Frontend Ops topics, I sometimes write a blog post [here](https://stefanhaas.dev/#blog).
